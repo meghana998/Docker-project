@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AXp9jjIdBu7LInVU5BiyJkUqWUGM/44IWxHBXHhbPjrca8oIF/B23u1DO71e+0hOQLDGGakb/PuWO4fDE2E3+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Meghana\\source\\repos\\sampleiistest\\sampleiistest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meghana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

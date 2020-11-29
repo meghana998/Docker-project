@@ -1,0 +1,7 @@
+C:\Users\Meghana\source\repos\sampleiistest\obj\Release\netcoreapp3.1\PubTmp\Out\sampleiistest.exe
+C:\Users\Meghana\source\repos\sampleiistest\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Meghana\source\repos\sampleiistest\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Meghana\source\repos\sampleiistest\obj\Release\netcoreapp3.1\PubTmp\Out\sampleiistest.dll
+C:\Users\Meghana\source\repos\sampleiistest\obj\Release\netcoreapp3.1\PubTmp\Out\sampleiistest.deps.json
+C:\Users\Meghana\source\repos\sampleiistest\obj\Release\netcoreapp3.1\PubTmp\Out\sampleiistest.runtimeconfig.json
+C:\Users\Meghana\source\repos\sampleiistest\obj\Release\netcoreapp3.1\PubTmp\Out\sampleiistest.pdb
